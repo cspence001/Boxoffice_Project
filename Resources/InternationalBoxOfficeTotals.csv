@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Row Labels, Sum of international box office 
 Action,"$57,000,902,013.00 "
 Adventure,"$64,466,697,986.00 "
@@ -7,3 +8,14 @@ Horror,"$5,343,559,889.00 "
 Romantic Comedy,"$4,503,490,235.00 "
 Thriller/Suspense,"$14,222,083,035.00 "
 Grand Total,"$177,055,580,113.00 "
+=======
+Row Labels, Sum of international box office 
+Action,"$57,000,902,013.00 "
+Adventure,"$64,466,697,986.00 "
+Comedy,"$12,094,316,721.00 "
+Drama,"$19,424,530,234.00 "
+Horror,"$5,343,559,889.00 "
+Romantic Comedy,"$4,503,490,235.00 "
+Thriller/Suspense,"$14,222,083,035.00 "
+Grand Total,"$177,055,580,113.00 "
+>>>>>>> 57dff29a081f53f11d6147bf1cee90a8db0b5f74
