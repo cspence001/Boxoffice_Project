@@ -35,10 +35,11 @@
 <h6>Revenue vs Budget Total Films</h6>
 <ul>
   <li>Revenue vs Budget Total Films Linear Regression<a href="https://github.com/cspence001/Boxoffice_Project/blob/main/Project%20Files/linear%20regress.ipynb"> (link)</a></li>
-  <li>Revenue by Genre Total Films Box & Whisker<a href="https://github.com/cspence001/Boxoffice_Project/blob/main/Project%20Files/linear%20regress.ipynb"> (link)</li>
+  <li>Revenue by Genre Total Films Box & Whisker<a href="https://github.com/cspence001/Boxoffice_Project/blob/main/Project%20Files/linear%20regress.ipynb"> (link)</a></li>
 </ul>
 
 <h6>Average ROI by MPAA Rating</h6>
 <ul>
-  <li>Bar Chart<a href="https://github.com/cspence001/Boxoffice_Project/blob/main/Project%20Files/Rating%20vs%20ROI%20(2).ipynb"> (link)</a></li>
+  <li>Bar Chart<a href="https://github.com/cspence001/Boxoffice_Project/blob/main/Project%20Files/Rating%20vs%20ROI%20(2).ipynb"> (link)</a>
+  </li>
 </ul>
