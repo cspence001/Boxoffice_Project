@@ -9,7 +9,7 @@
 
 <h6>Budget vs Revenue by Release Month</h6>
 <ul>
-  <li>Correlation Coefficeint and Linear Regression Models</li>
+  <li>Correlation Coefficient and Linear Regression Models</li>
 </ul>
 
 <h6>Budget vs Revenue by Genre</h6>
