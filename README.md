@@ -1,8 +1,8 @@
 # Boxoffice_Project
 
-Box Office Revenue By Genre, Domestic vs International
+<a href="https://github.com/cspence001/Boxoffice_Project/blob/main/Project%20Files/Box%20Office%20Revenues%20By%20Genre.ipynb">Box Office Revenue By Genre, Domestic vs International</a>
 <ul>
-  <li><h6><a href="https://github.com/cspence001/Boxoffice_Project/blob/main/Project%20Files/Box%20Office%20Revenues%20By%20Genre.ipynb">Bar Chart Comparing Total Revenue by Genre, Domestic vs International</a></h6></li>
+  <li><h6>Bar Chart Comparing Total Revenue by Genre, Domestic vs International</h6></li>
  </ul>
 
 <h6> Box Office v Production Budget by Genre</h6>
