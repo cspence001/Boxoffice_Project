@@ -34,7 +34,7 @@
 
 <h6>Revenue vs Budget Total Films</h6>
 <ul>
-  <li>Revenue vs Budget All Films Linear Regression<a href="https://github.com/cspence001/Boxoffice_Project/blob/main/Project%20Files/linear%20regress.ipynb"> (link)</a></li>
+  <li>Revenue vs Budget Total Films Linear Regression<a href="https://github.com/cspence001/Boxoffice_Project/blob/main/Project%20Files/linear%20regress.ipynb"> (link)</a></li>
   <li>Revenue by Genre Total Films Box & Whisker<a href="https://github.com/cspence001/Boxoffice_Project/blob/main/Project%20Files/linear%20regress.ipynb"> (link)</li>
 </ul>
 
